@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=angelomelonas&show_icons=true&theme=vue&include_all_commits=true" alt="angelomelonas" />	| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomelonas&layout=compact&theme=vue&langs_count=10&hide=tsql,css" alt="angelomelonas" />	|
+|---	                                                                                                                  |---	                                                   
+<br/>
+<div align="center">
+<a href="https://github.com/angelomelonas?tab=followers"><img src="https://img.shields.io/github/followers/angelomelonas.svg?style=social&label=Follow&maxAge=z"></a>
+<a href="https://github.com/angelomelonas"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/angelomelonas"><img src="https://komarev.com/ghpvc/?username=angelomelonas" alt="angelomelonas"/></a>
+
+</div>
+
 <!--
 **angelomelonas/angelomelonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

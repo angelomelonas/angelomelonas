@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my GitHub page! 
+### Hi there 👋 Welcome to my GitHub page! Below you can find some cool, but useless, stats.
 
 <img src="https://github-readme-stats.vercel.app/api?username=angelomelonas&show_icons=true&theme=vue&include_all_commits=true" alt="angelomelonas" />	| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomelonas&layout=compact&theme=vue&langs_count=10&hide=tsql,css" alt="angelomelonas" />	|
 |---	                                                                                                                  |---	                                                   

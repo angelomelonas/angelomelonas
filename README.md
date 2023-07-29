@@ -26,6 +26,15 @@ I am passionate about building software that is scalable, maintainable, and secu
 
 ---
 
+## In my free time, I enjoy:
+
+- ⛰️ Hiking (the longer the better)
+- 🌊 Kitesurfing (and other water sports)
+- ⛵ Sailing
+- 🪂 Skydiving
+- 🎮 Gaming (sometimes)
+
+
 ## Talks / Interviews / Articles
 
 - TBD

@@ -15,7 +15,7 @@ I am passionate about building software that is scalable, maintainable, and secu
 
 ## Previously:
 
-- 🏦 **_Software Engineer_** at [bunq](https://www.bunq.com/), mobile banking that mkaes life easy.
+- 🏦 **_Software Engineer_** at [bunq](https://www.bunq.com/), a mobile banking company that makes life easy.
 - 📡 **_Junior Software Engineer_** at a Leading Telecommunications Company in Stellenbosch, South Africa.
 - 🛡️ **_Security Consultant Intern_** at [MWR InfoSecurity](https://www.mwrcybersec.com/)
 

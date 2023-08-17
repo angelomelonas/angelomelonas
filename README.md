@@ -6,38 +6,38 @@
 [![](https://img.shields.io/badge/-@angelomelonas-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@angelomelonas)](https://medium.com/@angelomelonas)
 ![](https://komarev.com/ghpvc/?username=angelomelonas)
 
-Originally from South Africa, I moved to the Netherlands in 2019 to pursue a career in software engineering. 
-I am passionate about building software that is scalable, maintainable, and secure, while continuously looking for ways to improve my skills and knowledge.
+I am a software engineer from Cape Town, South Africa. Nowadays I'm living in the Netherlands, where my main focus is working on backend PHP applications. I'm generally passionate about building software that is scalable, maintainable, and secure, while continuously looking for ways to improve my skills and knowledge.
 
 ## Currently:
 
-- 🔬 **_Software Engineer_** at [Castor](https://www.castoredc.com/), where we are building the future of patient consent.
+- 🔬 **_Software Engineer_** at [Castor](https://www.castoredc.com/), where we are building the future of remote patient consent
 
 ## Previously:
 
-- 🏦 **_Software Engineer_** at [bunq](https://www.bunq.com/), a mobile banking company that makes life easy.
-- 📡 **_Junior Software Engineer_** at a Leading Telecommunications Company in Stellenbosch, South Africa.
-- 🛡️ **_Security Consultant Intern_** at [MWR InfoSecurity](https://www.mwrcybersec.com/)
+- 🏦 **_Software Engineer_** at [bunq](https://www.bunq.com/), a company that is revolutionising mobile banking
+- 📡 **_Junior Software Engineer_** at a Leading Telecommunications Company in Stellenbosch, South Africa
+- 🛡️ **_Security Consultant Intern_** at [MWR InfoSecurity](https://www.mwrcybersec.com/), where I did some web application penetration testing
 
 ## Education:
 
-- 🎓 **_BSc Computer Science (Honours)_** at the [University of Stellenbosch](https://www.sun.ac.za/), South Africa.
-- 🎓 **_BSc Computer Science (Mathematical Science)_** at the [University of Stellenbosch](https://www.sun.ac.za/), South Africa.
+- 🎓 **_BSc Computer Science (Honours)_** at the [University of Stellenbosch](https://www.sun.ac.za/), South Africa
+- 🎓 **_BSc Computer Science (Mathematical Science)_** at the [University of Stellenbosch](https://www.sun.ac.za/), South Africa
 
 ---
 
-## In my free time, I enjoy:
+## In my free time, I like to
 
-- ⛰️ Hiking (the longer the better)
-- 🌊 Kitesurfing (and other water sports)
-- ⛵ Sailing
-- 🪂 Skydiving
-- 🎮 Gaming (sometimes)
+- ⛰️ go hiking (the longer the better)
+- 🚵‍ mountain bike
+- 🌊 kitesurf (and some other water sports)
+- ⛵ sail
+- 🪂 skydive
+- 🎮 game
 
 
-## Talks / Interviews / Articles
+## Some projects I have worked on
 
-- TBD
+- ⏳️ will be listed soon
 
 ---
 

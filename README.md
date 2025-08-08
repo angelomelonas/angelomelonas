@@ -27,13 +27,12 @@ I am a software engineer from Cape Town, South Africa. Nowadays I'm living in th
 
 ## In my free time, I like to
 
-- ⛰️ go hiking (the longer the better)
+- ⛰️ go hiking
 - 🚵‍ mountain bike
-- 🌊 kitesurf (and some other water sports)
+- 🌊 kitesurf
 - ⛵ sail
 - 🪂 skydive
 - 🎮 game
-
 
 ## Some projects I have worked on
 

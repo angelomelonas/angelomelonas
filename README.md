@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header&text=Angelo%20Melonas&fontSize=36&fontColor=ffffff&fontAlignY=35)
 
-**Senior Software Engineer** · The Hague, Netherlands
+**Senior Software Engineer** · Identity & Access Management · The Hague, Netherlands
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelomelonas/)
 [![Website](https://img.shields.io/badge/angelomelonas.com-1c1f2e?style=flat-square&logo=google-chrome&logoColor=white)](https://angelomelonas.com)
@@ -27,7 +27,6 @@ BSc Computer Science (Honours) — Stellenbosch University, South Africa.
 ### Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=angelomelonas&show_icons=true&theme=vue&include_all_commits=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelomelonas&theme=vue" height="165" />
 </div>
 

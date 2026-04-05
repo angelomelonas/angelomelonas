@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header&text=Angelo%20Melonas&fontSize=36&fontColor=ffffff&fontAlignY=35)
 
-**Senior Software Engineer** · Identity & Access Management · The Hague, Netherlands
+**Senior Software Engineer** · The Hague, Netherlands (Remote)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelomelonas/)
 [![Website](https://img.shields.io/badge/angelomelonas.com-1c1f2e?style=flat-square&logo=google-chrome&logoColor=white)](https://angelomelonas.com)

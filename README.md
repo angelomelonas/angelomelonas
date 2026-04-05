@@ -1,25 +1,34 @@
-# Hey, I'm Angelo 👋
+<div align="center">
 
-Software engineer based in The Hague, Netherlands. I work on identity infrastructure and backend systems in the HealthTech space.
+![header](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header&text=Angelo%20Melonas&fontSize=36&fontColor=ffffff&fontAlignY=35)
 
-[![LinkedIn](https://img.shields.io/badge/-angelomelonas-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angelomelonas/)
-[![Website](https://img.shields.io/badge/-angelomelonas.com-1c1f2e?style=flat-square&logo=google-chrome&logoColor=white)](https://angelomelonas.com)
-[![Blog](https://img.shields.io/badge/-Blog-6495ED?style=flat-square&logo=rss&logoColor=white)](https://angelomelonas.com/blog)
+**Senior Software Engineer** · The Hague, Netherlands
 
-## Work
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelomelonas/)
+[![Website](https://img.shields.io/badge/angelomelonas.com-1c1f2e?style=flat-square&logo=google-chrome&logoColor=white)](https://angelomelonas.com)
+[![Blog](https://img.shields.io/badge/Blog-6495ED?style=flat-square&logo=rss&logoColor=white)](https://angelomelonas.com/blog)
 
-- **Senior Software Engineer** at [Castor](https://www.castoredc.com/) — Identity & Access Management (Keycloak, OIDC, OAuth2)
-- Previously: [bunq](https://www.bunq.com/) (backend/payments), telecom (Java/Spring Boot), [MWR InfoSecurity](https://www.mwrcybersec.com/) (security consulting)
-
-## Tech
-
-PHP, Symfony, Java, Keycloak, Go, MySQL, Docker, Kubernetes, Terraform, OpenTelemetry
-
-## Outside of work
-
-Hiking, mountain biking, kitesurfing, sailing, skydiving, gaming
+</div>
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=angelomelonas&show_icons=true&theme=vue&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelomelonas&layout=compact&theme=vue&langs_count=6&hide=tsql,css)
+### About
+
+I build identity infrastructure and backend systems in the HealthTech space at [Castor](https://www.castoredc.com/). Previously at [bunq](https://www.bunq.com/) (payments) and [MWR InfoSecurity](https://www.mwrcybersec.com/) (security consulting).
+
+BSc Computer Science (Honours) — Stellenbosch University, South Africa.
+
+### Tech
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,symfony,java,spring,go,mysql,docker,kubernetes,git" />
+</p>
+
+### Stats
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=angelomelonas&show_icons=true&theme=vue&include_all_commits=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelomelonas&theme=vue" height="165" />
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=80&section=footer)

@@ -1,46 +1,25 @@
-# Welcome to my GitHub page 👋
+# Hey, I'm Angelo 👋
 
-**My name is Angelo, and I am a software engineer based in the Netherlands.** 
+Software engineer based in The Hague, Netherlands. I work on identity infrastructure and backend systems in the HealthTech space.
 
-[![](https://img.shields.io/badge/-angelomelonas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelomelonas/)](https://www.linkedin.com/in/angelomelonas/) 
-[![](https://img.shields.io/badge/-@angelomelonas-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@angelomelonas)](https://medium.com/@angelomelonas)
-![](https://komarev.com/ghpvc/?username=angelomelonas)
+[![LinkedIn](https://img.shields.io/badge/-angelomelonas-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angelomelonas/)
+[![Website](https://img.shields.io/badge/-angelomelonas.com-1c1f2e?style=flat-square&logo=google-chrome&logoColor=white)](https://angelomelonas.com)
+[![Blog](https://img.shields.io/badge/-Blog-6495ED?style=flat-square&logo=rss&logoColor=white)](https://angelomelonas.com/blog)
 
-I am a software engineer from Cape Town, South Africa. Nowadays I'm living in the Netherlands, where my main focus is working on backend PHP applications. I'm generally passionate about building software that is scalable, maintainable, and secure, while continuously looking for ways to improve my skills and knowledge.
+## Work
 
-## Currently:
+- **Senior Software Engineer** at [Castor](https://www.castoredc.com/) — Identity & Access Management (Keycloak, OIDC, OAuth2)
+- Previously: [bunq](https://www.bunq.com/) (backend/payments), telecom (Java/Spring Boot), [MWR InfoSecurity](https://www.mwrcybersec.com/) (security consulting)
 
-- 🔬 **_Software Engineer_** at [Castor](https://www.castoredc.com/), where we are building the future of remote patient consent
+## Tech
 
-## Previously:
+PHP, Symfony, Java, Keycloak, Go, MySQL, Docker, Kubernetes, Terraform, OpenTelemetry
 
-- 🏦 **_Software Engineer_** at [bunq](https://www.bunq.com/), a company that is revolutionising mobile banking
-- 📡 **_Junior Software Engineer_** at a Leading Telecommunications Company in Stellenbosch, South Africa
-- 🛡️ **_Security Consultant Intern_** at [MWR InfoSecurity](https://www.mwrcybersec.com/), where I did some web application penetration testing
+## Outside of work
 
-## Education:
-
-- 🎓 **_BSc Computer Science (Honours)_** at the [University of Stellenbosch](https://www.sun.ac.za/), South Africa
-- 🎓 **_BSc Computer Science (Mathematical Science)_** at the [University of Stellenbosch](https://www.sun.ac.za/), South Africa
+Hiking, mountain biking, kitesurfing, sailing, skydiving, gaming
 
 ---
 
-## In my free time, I like to
-
-- ⛰️ go hiking
-- 🚵‍ mountain bike
-- 🌊 kitesurf
-- ⛵ sail
-- 🪂 skydive
-- 🎮 game
-
-## Some projects I have worked on
-
-- ⏳️ will be listed soon
-
----
-
-![](https://github-readme-stats.vercel.app/api?username=angelomelonas&show_icons=true&theme=vue&include_all_commits=true) 
+![](https://github-readme-stats.vercel.app/api?username=angelomelonas&show_icons=true&theme=vue&include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelomelonas&layout=compact&theme=vue&langs_count=6&hide=tsql,css)
-
-For everything else and check out my website at [https://angelomelonas.com](https://angelomelonas.com).

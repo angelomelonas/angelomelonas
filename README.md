@@ -24,10 +24,4 @@ BSc Computer Science (Honours) — Stellenbosch University, South Africa.
   <img src="https://skillicons.dev/icons?i=php,symfony,java,spring,go,mysql,docker,kubernetes,git" />
 </p>
 
-### Stats
-
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelomelonas&theme=vue" height="165" />
-</div>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=80&section=footer)
